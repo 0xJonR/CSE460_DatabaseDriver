@@ -1,3 +1,3 @@
 module CSE460/DatabaseDriver
 
-go 1.13
+go 1.17
